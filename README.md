@@ -1,6 +1,8 @@
 # Escuela de Taekwondo
 Esta página corresponde a la Escuela de Taekwondo ITF.
 
+Link: [Página de Taekwondo](https://ucc-labcompu2.github.io/proyecto2021-alici/index.html)
+
 ## Autores
 * Aliciardi, Agustina
 
